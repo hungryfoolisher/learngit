@@ -1,1 +1,6 @@
+both sb.
+<<<<<<< HEAD
 hehe
+=======
+haha
+>>>>>>> c18173fa6d6205d277f0b1e34d51e957f27a804f
